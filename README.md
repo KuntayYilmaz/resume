@@ -1,1 +1,1 @@
-[📄 View Resume](Kuntay_Resume.pdf)
+[📄 View Resume](https://kuntayyilmaz.github.io/resume/Kuntay_Resume.pdf)
